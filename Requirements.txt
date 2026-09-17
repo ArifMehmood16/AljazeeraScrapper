@@ -1,5 +1,5 @@
 bs4==0.0.1
 matplotlib==3.2.1
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 selenium==3.141.0
